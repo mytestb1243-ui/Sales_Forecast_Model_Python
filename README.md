@@ -131,5 +131,5 @@ Educational and portfolio use.
 
 ## 👤 Author
 
-Saeed Ullah\
-Software Engineer \| Data Analytics Enthusiast
+Muhammad Shafi\
+Data Analyst \| To Be Data Engineer 
